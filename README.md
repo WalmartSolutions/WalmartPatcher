@@ -6,6 +6,10 @@
 
 Nobody wants to re-crack sh1tty executors like these every time they drop.
 
+# Supported Executors
+**SubZero - https://getsubz.xyz/** <br/>
+**Nezur - https://nezur.io/**
+
 # How To Use
 1. Download [WalmartPatcher.zip](https://github.com/WalmartSolutions/WalmartPatcher/releases)
 2. Unzip WalmartPatcher.zip
